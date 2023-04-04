@@ -7,4 +7,3 @@ We used data from El conflicto Armado en Cifras, more specifically Acciones Bél
 
 All this analysis was made using Power BI as software visualization.
 
-It's attached some of the findings.
